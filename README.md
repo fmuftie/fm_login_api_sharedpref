@@ -10,3 +10,4 @@ Jika tidak logout, maka pada saat aplikasi ditutup dan dibuka kembali, maka tida
 Aplikasi flutter sederhana ini telah terintegrasi dengan API. Data login (username dan password) diambil dari [Dummy JSON](https://dummyjson.com/users).
 
 ## Screenshot
+https://github.com/fmuftie/fm_login_api_sharedpref/blob/master/SS/picture1.jpg?raw=true
