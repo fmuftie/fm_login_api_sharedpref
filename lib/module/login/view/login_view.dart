@@ -25,7 +25,6 @@ class LoginView extends StatefulWidget {
                 child: Form(
                   key: controller.formKey,
                   child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       TextFormField(
                         initialValue: controller.email,
