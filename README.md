@@ -14,5 +14,8 @@ Aplikasi flutter sederhana ini telah terintegrasi dengan API. Data login (userna
 ![Login Image](https://github.com/fmuftie/fm_login_api_sharedpref/blob/master/SS/picture1.jpg?raw=true)<br/>
 
 ![Dashboard Image](https://github.com/fmuftie/fm_login_api_sharedpref/blob/master/SS/picture2.jpg?raw=true)<br/>
+<<<<<<< HEAD
 
 .
+=======
+>>>>>>> 3b9a31f2524913d77c1d913d8f44e25b4808f670
